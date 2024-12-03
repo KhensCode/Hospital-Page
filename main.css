@@ -1,0 +1,248 @@
+html{
+   background-color: #D4BEE4;
+}.Container {
+    background-color:#F6F5F5;
+    margin-left: 4em;
+    width:64em;
+
+    padding-left:12em ;
+    border-radius: 35px;
+    height:38em;
+    margin-top: 16px;
+    padding-top: 19px;
+margin-right: 18em;
+}
+.Logo {
+    width:120px;
+   height:60px;
+  margin-left: -137px;
+   transform: rotate(700deg);
+}
+
+.h1{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+    color:#16423C;
+    margin-left: -26px;
+}
+.h3{
+    color:#973131;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: bold;
+   
+    
+}
+ul { list-style-type: none; 
+     display: flex;
+      margin: 0; 
+      padding: 0; 
+    font-size: 13px;
+      margin-top: -60px;
+    align-items: center; 
+}
+li { margin-right: 20px; 
+} li.h1
+ {  font-weight: bold; 
+}
+.Features {
+    margin-left: 120px;
+    transition: border-bottom 0.3s ease, margin-left 0.3s ease;
+}
+.Features:hover{
+    border-bottom: 2px solid #165a51;
+    cursor: pointer;
+    margin-left: 115px;
+}
+.Pricing {
+    margin-left: 20px;
+    transition: border-bottom 0.3s ease, margin-left 0.3s ease;
+}
+
+.Pricing:hover{
+    border-bottom: 2px solid #165a51;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.Faqs {
+    margin-left: 10px;
+    transition: border-bottom 0.3s ease, margin-left 0.3s ease;
+}
+
+.Faqs:hover{
+    border-bottom: 2px solid #165a51;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.Contact {
+    margin-left: 20px;
+    transition: border-bottom 0.3s ease, margin-left 0.3s ease;
+}
+
+.Contact:hover{
+    border-bottom: 2px solid #165a51;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.Login{
+    margin-left: 70px;
+
+}
+.Login:hover{
+    
+    font-size: 14px;
+    border-bottom: 2px solid #165a51;
+    cursor: pointer;
+    
+    
+}
+
+.Sign-up{
+    margin-left: 20px;
+    
+}
+.btn{
+    border: 1px solid grey;
+    padding: 10px 20px;
+    border-radius: 13px;
+    background-color: transparent;
+  
+  
+}
+.Heading {
+    margin-left: 390px;
+    font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  color:#16423C;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.Bio {
+    margin-left: 350px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   
+    font-weight: 100;
+    font-style: normal;
+  color:#1E201E ;
+  opacity: 0.7;
+ font-size: 16px;
+ margin-top: -18px;
+ 
+  font-style: normal;
+ 
+}
+.Img-1{
+    width:10em;
+    height:9em;
+    border-radius: 26px;
+margin-left: 60px;
+cursor: pointer;
+}
+.Img-2{
+    width:10em;
+    height:10em;
+    border-radius: 26px;
+margin-left: 615px;
+margin-top: -7px;
+
+}
+.Img-3{
+    width:10em;
+    height:8em;
+    border-radius: 26px;
+margin-left: 62px;
+margin-top: -8px;
+
+}
+.Section-1 {
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    padding-top: 1px;
+    padding-left: 30px;
+    border-radius: 26px;
+   font-size: 12px;
+    height:143px;
+    width:490px;
+    padding-right: 30px;
+    margin: 20px auto;
+    margin-left: 230px;
+    margin-top: -150px;
+
+}
+.section-2{
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+    padding-top: 1px;
+    padding-left: 30px;
+    border-radius: 26px;
+   font-size: 12px;
+    height:155px;
+    width:490px;
+    padding-right: 30px;
+    margin: 20px auto;
+    margin-left: 59px;
+    margin-top: -164px;
+   
+}
+.section-3{
+    background-image: linear-gradient(to right, #ffc3a0 0%, #ffafbd 100%);
+    padding-top: 1px;
+    padding-left: 30px;
+    border-radius: 26px;
+   font-size: 12px;
+    height:130px;
+    width:490px;
+    padding-right: 30px;
+    margin: 20px auto;
+    margin-left: 233px;
+    margin-top: -133px;
+    
+}
+.Role { font-size: 13px;
+    color:#070706;
+    opacity: 0.6; 
+    font-family: "Raleway", sans-serif;
+    margin-top: -6px;
+    
+}
+.Role-1{
+    color:#74460a;
+    font-weight: bold;
+}.Role-2{
+    font-size: 13px;
+    color:#070706;
+    opacity: 0.6; 
+    font-family: "Raleway", sans-serif;
+    margin-top: -6px; 
+}
+.Description { 
+    font-size: 10px; 
+    margin-top: -8px;
+    color:#0f0f0e;
+    opacity: 0.7;
+    font-family: "Raleway", sans-serif;
+}
+.Description-1{
+    color:#0f0f0e;
+    opacity: 0.7;
+}
+.Description-2{
+    color:#0f0f0e;
+    opacity: 0.7;
+    font-size: 10px;
+}
+.h2{
+    font-size: 18px;
+    font-family: "Lato", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: bold;
+  color:#1C325B;
+ 
+  font-style: normal;
+   
+}
